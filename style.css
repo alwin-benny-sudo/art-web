@@ -21,4 +21,9 @@ h2{
 .paint h2{
     background-color: skyblue;
 }
-a
+a{
+    color:blue;
+}
+a:hover{
+    color: green;
+}
