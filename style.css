@@ -12,6 +12,9 @@ h2{
     font-weight: bold;
     color: white;
 }
+body{
+    color: rgb(245, 223, 191);
+}
 .brushes h2{
     background-color: mediumspringgreen;
 }
